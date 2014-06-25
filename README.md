@@ -1,0 +1,2 @@
+angular-computed-property
+=========================

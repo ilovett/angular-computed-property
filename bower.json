@@ -1,0 +1,23 @@
+{
+  "name": "angular-computed-property",
+  "version": "0.0.1",
+  "main": "./angular-computed-property.js",
+  "homepage": "https://github.com/ilovett/angular-computed-property",
+  "authors": [
+    "Ian Lovett <i.c.lovett@gmail.com>"
+  ],
+  "description": "Provides computed properties via factory and/or convenient extension to $rootScope.",
+  "keywords": [
+    "angular",
+    "computed",
+    "property"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
