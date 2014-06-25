@@ -6,7 +6,7 @@
   "authors": [
     "Ian Lovett <i.c.lovett@gmail.com>"
   ],
-  "description": "Provides computed properties via factory and/or convenient extension to $rootScope.",
+  "description": "Provides computed property factory.",
   "keywords": [
     "angular",
     "computed",
